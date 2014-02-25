@@ -1,1 +1,1 @@
-https://github.com/cheyenneminer/trendythreads.git
+http://cheyenneminer.com/trendythreads
